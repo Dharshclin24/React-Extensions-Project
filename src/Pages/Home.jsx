@@ -37,9 +37,8 @@ function Home() {
 
   return (
     <>
-  
       <div className="topLogo"></div>
-      <img src={logo} alt="logoPic" />
+
       <h1>Extensions List</h1>
 
       <div className="topButtons">
